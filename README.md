@@ -66,7 +66,7 @@
 
     ```
     {
-        "target_url": "http://www.techcamp.co.ke"
+        "target_url": "https://www.linkedin.com/in/linet-nyamu-7a26b08a/"
     }
     ```
 
@@ -74,11 +74,11 @@
 
     ```
     {
-        "target_url": "http://www.techcamp.co.ke",
+        "target_url": "https://www.linkedin.com/in/linet-nyamu-7a26b08a/",
         "is_active": true,
         "clicks": 0,
-        "expire_datetime": "2022-11-11T16:17:22.093225",
-        "url": "http://localhost:8000/VEHT"
+        "expire_datetime": "2022-11-15T13:33:51.595464",
+        "url": "http://localhost:8000/UOGT"
     }
     ```
 
